@@ -9,7 +9,4 @@ En este contexto, el presente proyecto, utilizamos técnicas de Machine Learning
 * Objetivo 1: Construir un algoritmo de Machine Learning No-supervisado que resuelva un problema específico.
 * Objetivo 2: Construir un algoritmo de Machine Learning de regresión lineal o polinomial.
 * Objetivo 3:Construir un algoritmo de Machine Learning de árboles de decisión para clasificación.
-* Objetivo 4: Construir un algoritmo basado en redes neuronales artificiales que te permita realizar clasificaciones.
-* Objetivo 5: Construir varios algoritmos de clasificación basados en Machine Learning, y mostrar cuál es el mejor con base en evidencia sólida.
-* Objetivo 6: Desarrollar un sistema de procesamiento de imágenes con machine learning. Reconocer cómo las operaciones simples en las imágenes pueden llevar a generar descriptores robustos y complejos para la tarea de clasificación con Machine Learning.
-    
+* Objetivo 4: Construir varios algoritmos de clasificación basados en Machine Learning, y mostrar cuál es el mejor con base en evidencia sólida.    
